@@ -1,0 +1,1 @@
+"dk.c" OPTIMIZE (8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\dk.lst) TABS (2) OBJECT(.\Objects\dk.obj)
